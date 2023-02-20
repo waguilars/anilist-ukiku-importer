@@ -1,0 +1,1797 @@
+{
+    "date": "20/02/2023 11:39",
+    "data": [
+        {
+            "aid": "3704",
+            "chapter": "Episodio 4",
+            "date": 1667451990529,
+            "eid": "994480148",
+            "key": 3704,
+            "name": "Bleach: Sennen Kessen-hen"
+        },
+        {
+            "aid": "3667",
+            "chapter": "Episodio 11",
+            "date": 1664591711694,
+            "eid": "1631724820",
+            "key": 3667,
+            "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen"
+        },
+        {
+            "aid": "3586",
+            "chapter": "Episodio 1",
+            "date": 1663719601465,
+            "eid": "1326052193",
+            "key": 3586,
+            "name": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon"
+        },
+        {
+            "aid": "3655",
+            "chapter": "Episodio 11",
+            "date": 1663470134203,
+            "eid": "1596487251",
+            "key": 3655,
+            "name": "Soredemo Ayumu wa Yosetekuru"
+        },
+        {
+            "aid": "3646",
+            "chapter": "Episodio 6",
+            "date": 1660171316461,
+            "eid": "516318315",
+            "key": 3646,
+            "name": "Mamahaha no Tsurego ga Motokano datta"
+        },
+        {
+            "aid": "3620",
+            "chapter": "Episodio 12",
+            "date": 1660105446861,
+            "eid": "1361691824",
+            "key": 3620,
+            "name": "Kawaii dake ja Nai Shikimori-san"
+        },
+        {
+            "aid": "3625",
+            "chapter": "Episodio 15",
+            "date": 1660018070618,
+            "eid": "716278226",
+            "key": 3625,
+            "name": "Kakkou no Iinazuke"
+        },
+        {
+            "aid": "3639",
+            "chapter": "Episodio 6",
+            "date": 1660018057647,
+            "eid": "708651185",
+            "key": 3639,
+            "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season"
+        },
+        {
+            "aid": "3665",
+            "chapter": "Episodio 4",
+            "date": 1659654751974,
+            "eid": "1723532186",
+            "key": 3665,
+            "name": "Hataraku Maou-sama!!"
+        },
+        {
+            "aid": "3628",
+            "chapter": "Episodio 4",
+            "date": 1658669996912,
+            "eid": "959217453",
+            "key": 3628,
+            "name": "Kanojo, Okarishimasu 2nd Season"
+        },
+        {
+            "aid": "3583",
+            "chapter": "Episodio 1",
+            "date": 1658115092908,
+            "eid": "1873028322",
+            "key": 3583,
+            "name": "Koroshi Ai"
+        },
+        {
+            "aid": "3663",
+            "chapter": "Episodio 1",
+            "date": 1658098974249,
+            "eid": "1870370529",
+            "key": 3663,
+            "name": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
+        },
+        {
+            "aid": "1788",
+            "chapter": "Episodio 12",
+            "date": 1657397606403,
+            "eid": "1315143061",
+            "key": 1788,
+            "name": "Juuou Mujin no Fafnir"
+        },
+        {
+            "aid": "3648",
+            "chapter": "Episodio 1",
+            "date": 1657322424359,
+            "eid": "1217382888",
+            "key": 3648,
+            "name": "Made in Abyss: Retsujitsu no Ougonkyou"
+        },
+        {
+            "aid": "3598",
+            "chapter": "Episodio 11",
+            "date": 1657019397676,
+            "eid": "1877292497",
+            "key": 3598,
+            "name": "Yuusha, Yamemasu"
+        },
+        {
+            "aid": "3601",
+            "chapter": "Episodio 13",
+            "date": 1656823594858,
+            "eid": "645803090",
+            "key": 3601,
+            "name": "Tate no Yuusha no Nariagari Season 2"
+        },
+        {
+            "aid": "3611",
+            "chapter": "Episodio 12",
+            "date": 1656157769814,
+            "eid": "939206098",
+            "key": 3611,
+            "name": "Date A Live IV"
+        },
+        {
+            "aid": "3613",
+            "chapter": "Episodio 13",
+            "date": 1656131109795,
+            "eid": "681040659",
+            "key": 3613,
+            "name": "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+        },
+        {
+            "aid": "3612",
+            "chapter": "Episodio 12",
+            "date": 1656124150096,
+            "eid": "810123379",
+            "key": 3612,
+            "name": "Koi wa Sekai Seifuku no Ato de"
+        },
+        {
+            "aid": "3605",
+            "chapter": "Episodio 12",
+            "date": 1655949313245,
+            "eid": "129472215",
+            "key": 3605,
+            "name": "Komi-san wa, Comyushou desu. 2nd Season"
+        },
+        {
+            "aid": "3595",
+            "chapter": "Episodio 12",
+            "date": 1655779327115,
+            "eid": "2030426643",
+            "key": 3595,
+            "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
+        },
+        {
+            "aid": "3408",
+            "chapter": "Episodio 12",
+            "date": 1655693130382,
+            "eid": "1268893192",
+            "key": 3408,
+            "name": "Kemono Jihen"
+        },
+        {
+            "aid": "3570",
+            "chapter": "Episodio 1",
+            "date": 1653827847774,
+            "eid": "906224260",
+            "key": 3570,
+            "name": "Kaijin Kaihatsu-bu no Kuroitsu-san"
+        },
+        {
+            "aid": "986",
+            "chapter": "Episodio 13",
+            "date": 1653703156733,
+            "eid": "854946939",
+            "key": 986,
+            "name": "Hataraku Maou-sama!"
+        },
+        {
+            "aid": "3580",
+            "chapter": "Episodio 1",
+            "date": 1653362827591,
+            "eid": "777141541",
+            "key": 3580,
+            "name": "Fantasy Bishoujo Juniku Ojisan to"
+        },
+        {
+            "aid": "922",
+            "chapter": "Episodio 12",
+            "date": 1653255904554,
+            "eid": "2099034104",
+            "key": 922,
+            "name": "Tamako Market"
+        },
+        {
+            "aid": "3563",
+            "chapter": "Episodio 1",
+            "date": 1651373324281,
+            "eid": "-2131193760",
+            "key": 3563,
+            "name": "Dolls\u0027 Frontline"
+        },
+        {
+            "aid": "3538",
+            "chapter": "Episodio 24",
+            "date": 1650150780028,
+            "eid": "-116874421",
+            "key": 3538,
+            "name": "Platinum End"
+        },
+        {
+            "aid": "3575",
+            "chapter": "Episodio 12",
+            "date": 1649301158453,
+            "eid": "-1677734639",
+            "key": 3575,
+            "name": "Shingeki no Kyojin: The Final Season Part 2"
+        },
+        {
+            "aid": "3507",
+            "chapter": "Episodio 12",
+            "date": 1649048320077,
+            "eid": "634251848",
+            "key": 3507,
+            "name": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season"
+        },
+        {
+            "aid": "3483",
+            "chapter": "Episodio 26",
+            "date": 1648929061141,
+            "eid": "-1723744424",
+            "key": 3483,
+            "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+        },
+        {
+            "aid": "3584",
+            "chapter": "Episodio 12",
+            "date": 1648779334341,
+            "eid": "-2100220365",
+            "key": 3584,
+            "name": "Arifureta Shokugyou de Sekai Saikyou 2nd Season"
+        },
+        {
+            "aid": "3568",
+            "chapter": "Episodio 12",
+            "date": 1648326763403,
+            "eid": "-997083475",
+            "key": 3568,
+            "name": "Sono Bisque Doll wa Koi wo Suru"
+        },
+        {
+            "aid": "3566",
+            "chapter": "Episodio 12",
+            "date": 1648295920650,
+            "eid": "-1255248913",
+            "key": 3566,
+            "name": "Karakai Jouzu no Takagi-san 3"
+        },
+        {
+            "aid": "3520",
+            "chapter": "Episodio 12",
+            "date": 1647837187249,
+            "eid": "-856133199",
+            "key": 3520,
+            "name": "86 2nd Season"
+        },
+        {
+            "aid": "3524",
+            "chapter": "Episodio 9",
+            "date": 1647467243628,
+            "eid": "-149508691",
+            "key": 3524,
+            "name": "Mieruko-chan"
+        },
+        {
+            "aid": "3556",
+            "chapter": "Episodio 1",
+            "date": 1647026858219,
+            "eid": "938804036",
+            "key": 3556,
+            "name": "Mahouka Koukou no Rettousei: Tsuioku-hen"
+        },
+        {
+            "aid": "822",
+            "chapter": "Episodio 13",
+            "date": 1646969007217,
+            "eid": "-1690374566",
+            "key": 822,
+            "name": "Koi to Senkyo to Chocolate"
+        },
+        {
+            "aid": "3477",
+            "chapter": "Episodio 15",
+            "date": 1646259275496,
+            "eid": "-914010573",
+            "key": 3477,
+            "name": "Higurashi no Naku Koro ni Sotsu"
+        },
+        {
+            "aid": "3339",
+            "chapter": "Episodio 24",
+            "date": 1645683210482,
+            "eid": "1023325548",
+            "key": 3339,
+            "name": "Higurashi no Naku Koro ni (2020)"
+        },
+        {
+            "aid": "3554",
+            "chapter": "Episodio 11",
+            "date": 1645331645132,
+            "eid": "-1220011345",
+            "key": 3554,
+            "name": "Kimetsu no Yaiba: Yuukaku-hen"
+        },
+        {
+            "aid": "3157",
+            "chapter": "Episodio 14",
+            "date": 1641699282637,
+            "eid": "1189471315",
+            "key": 3157,
+            "name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+        },
+        {
+            "aid": "3533",
+            "chapter": "Episodio 8",
+            "date": 1641163947318,
+            "eid": "1776525386",
+            "key": 3533,
+            "name": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima"
+        },
+        {
+            "aid": "3532",
+            "chapter": "Episodio 7",
+            "date": 1640646756191,
+            "eid": "-721490552",
+            "key": 3532,
+            "name": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
+        },
+        {
+            "aid": "3531",
+            "chapter": "Episodio 8",
+            "date": 1640473191180,
+            "eid": "1075460808",
+            "key": 3531,
+            "name": "Takt Op. Destiny"
+        },
+        {
+            "aid": "3478",
+            "chapter": "Episodio 26",
+            "date": 1640291807133,
+            "eid": "-784927822",
+            "key": 3478,
+            "name": "Scarlet Nexus"
+        },
+        {
+            "aid": "3536",
+            "chapter": "Episodio 12",
+            "date": 1640266128626,
+            "eid": "-375039892",
+            "key": 3536,
+            "name": "Komi-san wa, Comyushou desu."
+        },
+        {
+            "aid": "1204",
+            "chapter": "Episodio 13",
+            "date": 1639948401870,
+            "eid": "-1251424051",
+            "key": 1204,
+            "name": "Witch Craft Works"
+        },
+        {
+            "aid": "3523",
+            "chapter": "Episodio 12",
+            "date": 1639944191090,
+            "eid": "-468885042",
+            "key": 3523,
+            "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+        },
+        {
+            "aid": "3546",
+            "chapter": "Episodio 7",
+            "date": 1639373319707,
+            "eid": "809721323",
+            "key": 3546,
+            "name": "Kimetsu no Yaiba: Mugen Ressha-hen Arc TV"
+        },
+        {
+            "aid": "3510",
+            "chapter": "Episodio 12",
+            "date": 1639029122756,
+            "eid": "-562730192",
+            "key": 3510,
+            "name": "Getsuyoubi no Tawawa 2"
+        },
+        {
+            "aid": "2611",
+            "chapter": "Episodio 14",
+            "date": 1638985026269,
+            "eid": "1848209391",
+            "key": 2611,
+            "name": "Getsuyoubi no Tawawa"
+        },
+        {
+            "aid": "2380",
+            "chapter": "Episodio 7",
+            "date": 1638746248513,
+            "eid": "315223104",
+            "key": 2380,
+            "name": "Ao no Kanata no Four Rhythm"
+        },
+        {
+            "aid": "3484",
+            "chapter": "Episodio 11",
+            "date": 1638307066245,
+            "eid": "-1594661741",
+            "key": 3484,
+            "name": "Mahouka Koukou no Yuutousei"
+        },
+        {
+            "aid": "1244",
+            "chapter": "Episodio 8",
+            "date": 1636431234935,
+            "eid": "1999983017",
+            "key": 1244,
+            "name": "Little Busters! EX"
+        },
+        {
+            "aid": "1820",
+            "chapter": "Episodio 1",
+            "date": 1635653250450,
+            "eid": "-1420729626",
+            "key": 1820,
+            "name": "Byousoku 5 Centimeter"
+        },
+        {
+            "aid": "1146",
+            "chapter": "Episodio 6",
+            "date": 1635115079667,
+            "eid": "-1300516696",
+            "key": 1146,
+            "name": "Little Busters! Refrain"
+        },
+        {
+            "aid": "1181",
+            "chapter": "Episodio 1",
+            "date": 1635047674470,
+            "eid": "-389363622",
+            "key": 1181,
+            "name": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!"
+        },
+        {
+            "aid": "871",
+            "chapter": "Episodio 25",
+            "date": 1634937505137,
+            "eid": "1008495009",
+            "key": 871,
+            "name": "Little Busters!"
+        },
+        {
+            "aid": "2208",
+            "chapter": "Episodio 1",
+            "date": 1634094043305,
+            "eid": "-1914744631",
+            "key": 2208,
+            "name": "Isuca Ova"
+        },
+        {
+            "aid": "1804",
+            "chapter": "Episodio 10",
+            "date": 1634071317920,
+            "eid": "10191492",
+            "key": 1804,
+            "name": "Isuca"
+        },
+        {
+            "aid": "1015",
+            "chapter": "Episodio 12",
+            "date": 1633956541259,
+            "eid": "-404627090",
+            "key": 1015,
+            "name": "Hentai Ouji to Warawanai Neko"
+        },
+        {
+            "aid": "1311",
+            "chapter": "Episodio 7",
+            "date": 1633750539427,
+            "eid": "-1879748663",
+            "key": 1311,
+            "name": "Bokura wa Minna Kawaisou"
+        },
+        {
+            "aid": "3487",
+            "chapter": "Episodio 10",
+            "date": 1633408133942,
+            "eid": "-1207413585",
+            "key": 3487,
+            "name": "Tantei wa Mou, Shindeiru."
+        },
+        {
+            "aid": "1130",
+            "chapter": "Episodio 1",
+            "date": 1632870426656,
+            "eid": "762174142",
+            "key": 1130,
+            "name": "Higurashi no naku koro ni Kaku ~Outbreak~"
+        },
+        {
+            "aid": "3501",
+            "chapter": "Episodio 12",
+            "date": 1632784212706,
+            "eid": "-140244466",
+            "key": 3501,
+            "name": "Deatte 5-byou de Battle"
+        },
+        {
+            "aid": "3431",
+            "chapter": "Episodio 25",
+            "date": 1632625193208,
+            "eid": "-514894828",
+            "key": 3431,
+            "name": "Boku no Hero Academia 5th Season"
+        },
+        {
+            "aid": "3482",
+            "chapter": "Episodio 12",
+            "date": 1632596665496,
+            "eid": "-1852827178",
+            "key": 3482,
+            "name": "Bokutachi no Remake"
+        },
+        {
+            "aid": "611",
+            "chapter": "Episodio 4",
+            "date": 1632541531468,
+            "eid": "537578458",
+            "key": 611,
+            "name": "Higurashi no Naku Koro Ni Kira"
+        },
+        {
+            "aid": "3498",
+            "chapter": "Episodio 12",
+            "date": 1632540023733,
+            "eid": "-1371733871",
+            "key": 3498,
+            "name": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season"
+        },
+        {
+            "aid": "2704",
+            "chapter": "Episodio 13",
+            "date": 1632368982594,
+            "eid": "2023301929",
+            "key": 2704,
+            "name": "Busou Shoujo Machiavellianism"
+        },
+        {
+            "aid": "3490",
+            "chapter": "Episodio 12",
+            "date": 1632172706181,
+            "eid": "1890571673",
+            "key": 3490,
+            "name": "Seirei Gensouki"
+        },
+        {
+            "aid": "3465",
+            "chapter": "Episodio 24",
+            "date": 1632055231709,
+            "eid": "-878772974",
+            "key": 3465,
+            "name": "Tokyo Revengers"
+        },
+        {
+            "aid": "3479",
+            "chapter": "Episodio 12",
+            "date": 1631937528605,
+            "eid": "-655845138",
+            "key": 3479,
+            "name": "Kanojo mo Kanojo"
+        },
+        {
+            "aid": "3503",
+            "chapter": "Episodio 10",
+            "date": 1631767486219,
+            "eid": "117920970",
+            "key": 3503,
+            "name": "Megami-ryou no Ryoubo-kun."
+        },
+        {
+            "aid": "699",
+            "chapter": "Episodio 5",
+            "date": 1631078589101,
+            "eid": "79531227",
+            "key": 699,
+            "name": "Higurashi no Naku Koroni Rei"
+        },
+        {
+            "aid": "958",
+            "chapter": "Episodio 24",
+            "date": 1630474748584,
+            "eid": "1993321430",
+            "key": 958,
+            "name": "Higurashi no Naku Koroni Ni Kai"
+        },
+        {
+            "aid": "3466",
+            "chapter": "Episodio 20",
+            "date": 1630384556551,
+            "eid": "-749690259",
+            "key": 3466,
+            "name": "Fumetsu no Anata e"
+        },
+        {
+            "aid": "2927",
+            "chapter": "Episodio 25",
+            "date": 1629727281056,
+            "eid": "812626855",
+            "key": 2927,
+            "name": "Akkun to Kanojo"
+        },
+        {
+            "aid": "1395",
+            "chapter": "Episodio 1",
+            "date": 1629519446226,
+            "eid": "555042239",
+            "key": 1395,
+            "name": "Higurashi no Naku Koro ni Gaiden Nekogoroshi-hen"
+        },
+        {
+            "aid": "49",
+            "chapter": "Episodio 23",
+            "date": 1629489489141,
+            "eid": "1167877708",
+            "key": 49,
+            "name": "Higurashi no Naku Koro Ni"
+        },
+        {
+            "aid": "3509",
+            "chapter": "Episodio 1",
+            "date": 1628977133406,
+            "eid": "-802496340",
+            "key": 3509,
+            "name": "Evangelion 3.0+1.0 Thrice Upon a Time"
+        },
+        {
+            "aid": "3236",
+            "chapter": "Episodio 13",
+            "date": 1628430955113,
+            "eid": "1141635984",
+            "key": 3236,
+            "name": "Magia Record: Mahou Shoujo Madoka\\u2606Magica Gaiden (TV)"
+        },
+        {
+            "aid": "2100",
+            "chapter": "Episodio 14",
+            "date": 1627448152850,
+            "eid": "245355508",
+            "key": 2100,
+            "name": "To LOVE-Ru Darkness 2nd"
+        },
+        {
+            "aid": "849",
+            "chapter": "Episodio 10",
+            "date": 1627014563482,
+            "eid": "-1373601550",
+            "key": 849,
+            "name": "To LOVE-Ru Darkness OVA"
+        },
+        {
+            "aid": "866",
+            "chapter": "Episodio 9",
+            "date": 1626702313835,
+            "eid": "201363841",
+            "key": 866,
+            "name": "To LOVE-Ru Darkness"
+        },
+        {
+            "aid": "91",
+            "chapter": "Episodio 12",
+            "date": 1626559954675,
+            "eid": "-1331799111",
+            "key": 91,
+            "name": "Motto To Love Ru ~trouble~"
+        },
+        {
+            "aid": "1576",
+            "chapter": "Episodio 6",
+            "date": 1626234865400,
+            "eid": "-2086880567",
+            "key": 1576,
+            "name": "To LOVE-Ru OVA"
+        },
+        {
+            "aid": "6",
+            "chapter": "Episodio 26",
+            "date": 1626069724924,
+            "eid": "-1142283266",
+            "key": 6,
+            "name": "To Love Ru"
+        },
+        {
+            "aid": "3473",
+            "chapter": "Episodio 13",
+            "date": 1625438586898,
+            "eid": "-1430341451",
+            "key": 3473,
+            "name": "Vivy: Fluorite Eye\u0027s Song"
+        },
+        {
+            "aid": "3462",
+            "chapter": "Episodio 13",
+            "date": 1625345109361,
+            "eid": "-1266021163",
+            "key": 3462,
+            "name": "Shadows House"
+        },
+        {
+            "aid": "3469",
+            "chapter": "Episodio 12",
+            "date": 1625080635134,
+            "eid": "-362442131",
+            "key": 3469,
+            "name": "Osananajimi ga Zettai ni Makenai Love Comedy"
+        },
+        {
+            "aid": "3445",
+            "chapter": "Episodio 13",
+            "date": 1624914406062,
+            "eid": "-291966992",
+            "key": 3445,
+            "name": "Hige wo Soru. Soshite Joshikousei wo Hirou"
+        },
+        {
+            "aid": "3443",
+            "chapter": "Episodio 12",
+            "date": 1624772679083,
+            "eid": "-550132431",
+            "key": 3443,
+            "name": "Sentouin, Hakenshimasu!"
+        },
+        {
+            "aid": "3461",
+            "chapter": "Episodio 12",
+            "date": 1624771004625,
+            "eid": "-1395103883",
+            "key": 3461,
+            "name": "86 - Eighty Six"
+        },
+        {
+            "aid": "3460",
+            "chapter": "Episodio 12",
+            "date": 1624745662795,
+            "eid": "-1524186602",
+            "key": 3460,
+            "name": "Ijiranaide, Nagatoro-san"
+        },
+        {
+            "aid": "3419",
+            "chapter": "Episodio 24",
+            "date": 1624568452888,
+            "eid": "1104572937",
+            "key": 3419,
+            "name": "Nanatsu no Taizai: Fundo no Shinpan"
+        },
+        {
+            "aid": "3432",
+            "chapter": "Episodio 12",
+            "date": 1623696659480,
+            "eid": "-385812143",
+            "key": 3432,
+            "name": "Koi to Yobu ni wa Kimochi Warui"
+        },
+        {
+            "aid": "108",
+            "chapter": "Episodio 14",
+            "date": 1623241998768,
+            "eid": "-1085129158",
+            "key": 108,
+            "name": "Yosuga no Sora"
+        },
+        {
+            "aid": "3314",
+            "chapter": "Episodio 13",
+            "date": 1621804218474,
+            "eid": "964717935",
+            "key": 3314,
+            "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 2nd Season"
+        },
+        {
+            "aid": "3344",
+            "chapter": "Episodio 24",
+            "date": 1620621387101,
+            "eid": "84508946",
+            "key": 3344,
+            "name": "Jujutsu Kaisen (TV)"
+        },
+        {
+            "aid": "3472",
+            "chapter": "Episodio 1",
+            "date": 1619727760554,
+            "eid": "88243325",
+            "key": 3472,
+            "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
+        },
+        {
+            "aid": "2996",
+            "chapter": "Episodio 12",
+            "date": 1619240098008,
+            "eid": "-1370276947",
+            "key": 2996,
+            "name": "Happy Sugar Life"
+        },
+        {
+            "aid": "2959",
+            "chapter": "Episodio 3",
+            "date": 1618685986429,
+            "eid": "-825136146",
+            "key": 2959,
+            "name": "Fate/stay night Movie: Heaven\u0027s Feel"
+        },
+        {
+            "aid": "3297",
+            "chapter": "Episodio 32",
+            "date": 1618636399800,
+            "eid": "-489699278",
+            "key": 3297,
+            "name": "Digimon Adventure: (2020)\\t"
+        },
+        {
+            "aid": "3406",
+            "chapter": "Episodio 13",
+            "date": 1617857413644,
+            "eid": "1010727755",
+            "key": 3406,
+            "name": "Horimiya"
+        },
+        {
+            "aid": "3386",
+            "chapter": "Episodio 2",
+            "date": 1610741607222,
+            "eid": "1912858208",
+            "key": 3386,
+            "name": "Yakusoku no Neverland 2nd Season"
+        },
+        {
+            "aid": "3324",
+            "chapter": "Episodio 15",
+            "date": 1610603441040,
+            "eid": "671314930",
+            "key": 3324,
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+        },
+        {
+            "aid": "1434",
+            "chapter": "Episodio 13",
+            "date": 1610420680841,
+            "eid": "1152216974",
+            "key": 1434,
+            "name": "Ao Haru Ride"
+        },
+        {
+            "aid": "3379",
+            "chapter": "Episodio 5",
+            "date": 1610313965465,
+            "eid": "687888711",
+            "key": 3379,
+            "name": "Shingeki no Kyojin: The Final Season"
+        },
+        {
+            "aid": "3393",
+            "chapter": "Episodio 1",
+            "date": 1610073356626,
+            "eid": "-1157139589",
+            "key": 3393,
+            "name": "Gotoubun no Hanayome 2nd Season"
+        },
+        {
+            "aid": "3354",
+            "chapter": "Episodio 13",
+            "date": 1609098083202,
+            "eid": "-208894093",
+            "key": 3354,
+            "name": "Munou na Nana"
+        },
+        {
+            "aid": "3368",
+            "chapter": "Episodio 12",
+            "date": 1609040650174,
+            "eid": "14033775",
+            "key": 3368,
+            "name": "Kamisama ni Natta Hi"
+        },
+        {
+            "aid": "3351",
+            "chapter": "Episodio 13",
+            "date": 1609039188151,
+            "eid": "-596142250",
+            "key": 3351,
+            "name": "Mahouka Koukou no Rettousei: Raihousha-hen"
+        },
+        {
+            "aid": "3340",
+            "chapter": "Episodio 12",
+            "date": 1608929604904,
+            "eid": "-431821963",
+            "key": 3340,
+            "name": "Assault Lily: Bouquet"
+        },
+        {
+            "aid": "3361",
+            "chapter": "Episodio 12",
+            "date": 1608842898379,
+            "eid": "-889545258",
+            "key": 3361,
+            "name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
+        },
+        {
+            "aid": "3341",
+            "chapter": "Episodio 12",
+            "date": 1608440449526,
+            "eid": "-302739244",
+            "key": 3341,
+            "name": "100-man no Inochi no Ue ni Ore wa Tatteiru"
+        },
+        {
+            "aid": "3345",
+            "chapter": "Episodio 12",
+            "date": 1608384391502,
+            "eid": "213591632",
+            "key": 3345,
+            "name": "Majo no Tabitabi"
+        },
+        {
+            "aid": "3342",
+            "chapter": "Episodio 12",
+            "date": 1608322318652,
+            "eid": "-173656525",
+            "key": 3342,
+            "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III"
+        },
+        {
+            "aid": "3378",
+            "chapter": "Episodio 1",
+            "date": 1607292764889,
+            "eid": "-1810127230",
+            "key": 3378,
+            "name": "Shingeki no Kyojin: The Final Season"
+        },
+        {
+            "aid": "1169",
+            "chapter": "Episodio 11",
+            "date": 1606478891998,
+            "eid": "-1860869875",
+            "key": 1169,
+            "name": "Noucome"
+        },
+        {
+            "aid": "3249",
+            "chapter": "Episodio 24",
+            "date": 1606098141329,
+            "eid": "1235481166",
+            "key": 3249,
+            "name": "Plunderer"
+        },
+        {
+            "aid": "3347",
+            "chapter": "Episodio 4",
+            "date": 1604898305085,
+            "eid": "-400424025",
+            "key": 3347,
+            "name": "King\u0027s Raid: Ishi wo Tsugumono-tachi"
+        },
+        {
+            "aid": "2091",
+            "chapter": "Episodio 14",
+            "date": 1604774218381,
+            "eid": "-1760630211",
+            "key": 2091,
+            "name": "Charlotte"
+        },
+        {
+            "aid": "598",
+            "chapter": "Episodio 13",
+            "date": 1603385809500,
+            "eid": "-1453023426",
+            "key": 598,
+            "name": "Baka to Test to Shokanju II"
+        },
+        {
+            "aid": "370",
+            "chapter": "Episodio 2",
+            "date": 1603125457738,
+            "eid": "-305732146",
+            "key": 370,
+            "name": "Baka to Test to Shokanju: Matsuri"
+        },
+        {
+            "aid": "205",
+            "chapter": "Episodio 13",
+            "date": 1603083021455,
+            "eid": "-1977935941",
+            "key": 205,
+            "name": "Baka to Test to Shoukanjuu"
+        },
+        {
+            "aid": "3363",
+            "chapter": "Episodio 3",
+            "date": 1602767753151,
+            "eid": "-1544387744",
+            "key": 3363,
+            "name": "Burn the Witch"
+        },
+        {
+            "aid": "802",
+            "chapter": "Episodio 5",
+            "date": 1602683777262,
+            "eid": "-1975261633",
+            "key": 802,
+            "name": "Amagami SS Plus Especial"
+        },
+        {
+            "aid": "717",
+            "chapter": "Episodio 13",
+            "date": 1602647626503,
+            "eid": "-245999339",
+            "key": 717,
+            "name": "Amagami SS Plus"
+        },
+        {
+            "aid": "100",
+            "chapter": "Episodio 27",
+            "date": 1602299699668,
+            "eid": "-2117790876",
+            "key": 100,
+            "name": "Amagami SS"
+        },
+        {
+            "aid": "3321",
+            "chapter": "Episodio 13",
+            "date": 1601150177207,
+            "eid": "284066771",
+            "key": 3321,
+            "name": "Maou Gakuin no Futekigousha"
+        },
+        {
+            "aid": "3261",
+            "chapter": "Episodio 25",
+            "date": 1601125460146,
+            "eid": "-383986599",
+            "key": 3261,
+            "name": "Toaru Kagaku no Railgun T"
+        },
+        {
+            "aid": "2805",
+            "chapter": "Episodio 15",
+            "date": 1601092413418,
+            "eid": "1646826025",
+            "key": 2805,
+            "name": "UQ Holder!: Mahou Sensei Negima! 2"
+        },
+        {
+            "aid": "3330",
+            "chapter": "Episodio 12",
+            "date": 1601081916377,
+            "eid": "-138418956",
+            "key": 3330,
+            "name": "Kanojo, Okarishimasu"
+        },
+        {
+            "aid": "3327",
+            "chapter": "Episodio 12",
+            "date": 1601080287964,
+            "eid": "1058563084",
+            "key": 3327,
+            "name": "Uzaki-chan wa Asobitai!"
+        },
+        {
+            "aid": "3328",
+            "chapter": "Episodio 12",
+            "date": 1600973439095,
+            "eid": "1187645803",
+            "key": 3328,
+            "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+        },
+        {
+            "aid": "747",
+            "chapter": "Episodio 1",
+            "date": 1600656915707,
+            "eid": "-1560349957",
+            "key": 747,
+            "name": "Mahou Sensei Negima! Anime Final"
+        },
+        {
+            "aid": "3221",
+            "chapter": "Episodio 23",
+            "date": 1600545068704,
+            "eid": "789625427",
+            "key": 3221,
+            "name": "Sword Art Online: Alicization - War of Underworld"
+        },
+        {
+            "aid": "2364",
+            "chapter": "Episodio 11",
+            "date": 1600432825270,
+            "eid": "-2009848911",
+            "key": 2364,
+            "name": "Phantasy Star Online 2 The Animation"
+        },
+        {
+            "aid": "3207",
+            "chapter": "Episodio 24",
+            "date": 1600139899850,
+            "eid": "-2144039540",
+            "key": 3207,
+            "name": "Phantasy Star Online 2: Episode Oracle"
+        },
+        {
+            "aid": "3338",
+            "chapter": "Episodio 1",
+            "date": 1599085261085,
+            "eid": "1968509190",
+            "key": 3338,
+            "name": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set"
+        },
+        {
+            "aid": "3246",
+            "chapter": "Episodio 6",
+            "date": 1598935966672,
+            "eid": "1689930343",
+            "key": 3246,
+            "name": "Majutsushi Orphen Hagure Tabi"
+        },
+        {
+            "aid": "595",
+            "chapter": "Episodio 13",
+            "date": 1598590918224,
+            "eid": "-1840271583",
+            "key": 595,
+            "name": "Mayo Chiki!"
+        },
+        {
+            "aid": "863",
+            "chapter": "Episodio 24",
+            "date": 1597813431744,
+            "eid": "1560063453",
+            "key": 863,
+            "name": "Zetsuen no Tempest"
+        },
+        {
+            "aid": "2757",
+            "chapter": "Episodio 13",
+            "date": 1596280678885,
+            "eid": "943535051",
+            "key": 2757,
+            "name": "Koi to Uso"
+        },
+        {
+            "aid": "3283",
+            "chapter": "Episodio 12",
+            "date": 1595855295580,
+            "eid": "-712627209",
+            "key": 3283,
+            "name": "Hachi-nan tte, Sore wa Nai deshou!"
+        },
+        {
+            "aid": "3331",
+            "chapter": "Episodio 1",
+            "date": 1595357776329,
+            "eid": "1662266815",
+            "key": 3331,
+            "name": "Boku no Hero Academia the Movie 2: Heroes:Rising"
+        },
+        {
+            "aid": "2612",
+            "chapter": "Episodio 1",
+            "date": 1595116582151,
+            "eid": "-767500378",
+            "key": 2612,
+            "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA"
+        },
+        {
+            "aid": "1885",
+            "chapter": "Episodio 13",
+            "date": 1595105451333,
+            "eid": "2087017454",
+            "key": 1885,
+            "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+        },
+        {
+            "aid": "2628",
+            "chapter": "Episodio 1",
+            "date": 1594962372772,
+            "eid": "1464776075",
+            "key": 2628,
+            "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA"
+        },
+        {
+            "aid": "989",
+            "chapter": "Episodio 13",
+            "date": 1594912999795,
+            "eid": "1242195096",
+            "key": 989,
+            "name": "Yahari Ore no Seishun Love Come wa Machigatteiru"
+        },
+        {
+            "aid": "3268",
+            "chapter": "Episodio 12",
+            "date": 1594596192997,
+            "eid": "519592400",
+            "key": 3268,
+            "name": "Kyokou Suiri"
+        },
+        {
+            "aid": "2154",
+            "chapter": "Episodio 1",
+            "date": 1594014883616,
+            "eid": "1916910111",
+            "key": 2154,
+            "name": "Kaichou wa Maid-sama!: Omake dayo!"
+        },
+        {
+            "aid": "8",
+            "chapter": "Episodio 26",
+            "date": 1594011995104,
+            "eid": "-884117828",
+            "key": 8,
+            "name": "Kaichou wa maid sama!"
+        },
+        {
+            "aid": "3148",
+            "chapter": "Episodio 12",
+            "date": 1593782467477,
+            "eid": "1611957039",
+            "key": 3148,
+            "name": "Kanata no Astra"
+        },
+        {
+            "aid": "3299",
+            "chapter": "Episodio 13",
+            "date": 1593364470514,
+            "eid": "-231533901",
+            "key": 3299,
+            "name": "Gleipnir"
+        },
+        {
+            "aid": "2922",
+            "chapter": "Episodio 13",
+            "date": 1593066716107,
+            "eid": "167213227",
+            "key": 2922,
+            "name": "Tada-kun wa Koi wo Shinai"
+        },
+        {
+            "aid": "3253",
+            "chapter": "Episodio 13",
+            "date": 1592976131886,
+            "eid": "167581813",
+            "key": 3253,
+            "name": "Infinite Dendrogram"
+        },
+        {
+            "aid": "3298",
+            "chapter": "Episodio 12",
+            "date": 1592767178336,
+            "eid": "-360616621",
+            "key": 3298,
+            "name": "Tsugu Tsugumomo\t"
+        },
+        {
+            "aid": "3294",
+            "chapter": "Episodio 12",
+            "date": 1592680215186,
+            "eid": "-876947497",
+            "key": 3294,
+            "name": "Yesterday wo Utatte\t"
+        },
+        {
+            "aid": "3238",
+            "chapter": "Episodio 13",
+            "date": 1592662837624,
+            "eid": "1399801422",
+            "key": 3238,
+            "name": "ID:Invaded"
+        },
+        {
+            "aid": "3248",
+            "chapter": "Episodio 12",
+            "date": 1590931722553,
+            "eid": "1106398414",
+            "key": 3248,
+            "name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+        },
+        {
+            "aid": "1138",
+            "chapter": "Episodio 26",
+            "date": 1590439699653,
+            "eid": "-1109743537",
+            "key": 1138,
+            "name": "Nagi no Asukara"
+        },
+        {
+            "aid": "3203",
+            "chapter": "Episodio 12",
+            "date": 1590127461803,
+            "eid": "1634596847",
+            "key": 3203,
+            "name": "Fairy Gone 2nd Season"
+        },
+        {
+            "aid": "3123",
+            "chapter": "Episodio 1",
+            "date": 1589898428120,
+            "eid": "51741",
+            "key": 3123,
+            "name": "Fairy Gone"
+        },
+        {
+            "aid": "1300",
+            "chapter": "Episodio 2",
+            "date": 1589132172273,
+            "eid": "24362",
+            "key": 1300,
+            "name": "Mikakunin de Shinkoukei OVA"
+        },
+        {
+            "aid": "1224",
+            "chapter": "Episodio 12",
+            "date": 1589122665628,
+            "eid": "24163",
+            "key": 1224,
+            "name": "Mikakunin de Shinkoukei"
+        },
+        {
+            "aid": "3052",
+            "chapter": "Episodio 12",
+            "date": 1588940199491,
+            "eid": "50981",
+            "key": 3052,
+            "name": "Conception"
+        },
+        {
+            "aid": "3240",
+            "chapter": "Episodio 12",
+            "date": 1588392820655,
+            "eid": "54198",
+            "key": 3240,
+            "name": "Murenase! Seton Gakuen"
+        },
+        {
+            "aid": "3275",
+            "chapter": "Episodio 1",
+            "date": 1587610966889,
+            "eid": "53753",
+            "key": 3275,
+            "name": "Tsugumomo OVA"
+        },
+        {
+            "aid": "2692",
+            "chapter": "Episodio 12",
+            "date": 1587609231021,
+            "eid": "46298",
+            "key": 2692,
+            "name": "Tsugumomo"
+        },
+        {
+            "aid": "3199",
+            "chapter": "Episodio 21",
+            "date": 1587390893192,
+            "eid": "54182",
+            "key": 3199,
+            "name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+        },
+        {
+            "aid": "2860",
+            "chapter": "Episodio 1",
+            "date": 1587062705409,
+            "eid": "47956",
+            "key": 2860,
+            "name": "Fate/Grand Order: Moonlight/Lostroom"
+        },
+        {
+            "aid": "2639",
+            "chapter": "Episodio 1",
+            "date": 1586980507702,
+            "eid": "43495",
+            "key": 2639,
+            "name": "Fate/Grand Order: First Order"
+        },
+        {
+            "aid": "3181",
+            "chapter": "Episodio 0",
+            "date": 1586757344139,
+            "eid": "52745",
+            "key": 3181,
+            "name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter"
+        },
+        {
+            "aid": "3176",
+            "chapter": "Episodio 12",
+            "date": 1586549324421,
+            "eid": "52911",
+            "key": 3176,
+            "name": "Toaru Kagaku no Accelerator"
+        },
+        {
+            "aid": "3220",
+            "chapter": "Episodio 25",
+            "date": 1586002190847,
+            "eid": "54268",
+            "key": 3220,
+            "name": "Boku no Hero Academia 4th Season"
+        },
+        {
+            "aid": "3285",
+            "chapter": "Episodio 1",
+            "date": 1585960207354,
+            "eid": "54258",
+            "key": 3285,
+            "name": "ReZero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna"
+        },
+        {
+            "aid": "3211",
+            "chapter": "Episodio 24",
+            "date": 1585948511792,
+            "eid": "54206",
+            "key": 3211,
+            "name": "Nanatsu no Taizai: Kamigami no Gekirin"
+        },
+        {
+            "aid": "3231",
+            "chapter": "Episodio 13",
+            "date": 1585771893241,
+            "eid": "54253",
+            "key": 3231,
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban"
+        },
+        {
+            "aid": "450",
+            "chapter": "Episodio 13",
+            "date": 1585687389207,
+            "eid": "10636",
+            "key": 450,
+            "name": "True Tears"
+        },
+        {
+            "aid": "3279",
+            "chapter": "Episodio 1",
+            "date": 1585185982224,
+            "eid": "54210",
+            "key": 3279,
+            "name": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu"
+        },
+        {
+            "aid": "3234",
+            "chapter": "Episodio 11",
+            "date": 1584741272014,
+            "eid": "54176",
+            "key": 3234,
+            "name": "Darwin\u0027s Game"
+        },
+        {
+            "aid": "3064",
+            "chapter": "Episodio 0",
+            "date": 1584498658086,
+            "eid": "51003",
+            "key": 3064,
+            "name": "Lord El-Melloi II-sei no Jikenbo"
+        },
+        {
+            "aid": "3076",
+            "chapter": "Episodio 13",
+            "date": 1584448696971,
+            "eid": "51708",
+            "key": 3076,
+            "name": "Mob Psycho 100 II"
+        },
+        {
+            "aid": "3132",
+            "chapter": "Episodio 12",
+            "date": 1583636802434,
+            "eid": "52316",
+            "key": 3132,
+            "name": "One Punch Man 2nd Season"
+        },
+        {
+            "aid": "1119",
+            "chapter": "Episodio 1",
+            "date": 1583434725682,
+            "eid": "21985",
+            "key": 1119,
+            "name": "Toaru Majutsu no Index: Endymion no Kiseki"
+        },
+        {
+            "aid": "3188",
+            "chapter": "Episodio 2",
+            "date": 1583172802181,
+            "eid": "52981",
+            "key": 3188,
+            "name": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+        },
+        {
+            "aid": "3162",
+            "chapter": "Episodio 4",
+            "date": 1582545457608,
+            "eid": "52479",
+            "key": 3162,
+            "name": "Vinland Saga"
+        },
+        {
+            "aid": "3069",
+            "chapter": "Episodio 18",
+            "date": 1581996052442,
+            "eid": "51677",
+            "key": 3069,
+            "name": "Boogiepop wa Warawanai (2019)"
+        },
+        {
+            "aid": "910",
+            "chapter": "Episodio 13",
+            "date": 1580499742693,
+            "eid": "20397",
+            "key": 910,
+            "name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru"
+        },
+        {
+            "aid": "3243",
+            "chapter": "Episodio 1",
+            "date": 1578373674275,
+            "eid": "53615",
+            "key": 3243,
+            "name": "Overflow"
+        },
+        {
+            "aid": "3200",
+            "chapter": "Episodio 13",
+            "date": 1577556931140,
+            "eid": "53584",
+            "key": 3200,
+            "name": "Bokutachi wa Benkyou ga Dekinai 2"
+        },
+        {
+            "aid": "3213",
+            "chapter": "Episodio 12",
+            "date": 1577411929286,
+            "eid": "53570",
+            "key": 3213,
+            "name": "Assassins Pride"
+        },
+        {
+            "aid": "3187",
+            "chapter": "Episodio 12",
+            "date": 1577296956760,
+            "eid": "53566",
+            "key": 3187,
+            "name": "Ore wo Suki nano wa Omae dake ka yo"
+        },
+        {
+            "aid": "3198",
+            "chapter": "Episodio 12",
+            "date": 1576954664221,
+            "eid": "53535",
+            "key": 3198,
+            "name": "Val x Love"
+        },
+        {
+            "aid": "3230",
+            "chapter": "Episodio 1",
+            "date": 1574827965845,
+            "eid": "53296",
+            "key": 3230,
+            "name": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+        },
+        {
+            "aid": "1784",
+            "chapter": "Episodio 10",
+            "date": 1571980511365,
+            "eid": "32166",
+            "key": 1784,
+            "name": "Shinmai Maou no Testament"
+        },
+        {
+            "aid": "3118",
+            "chapter": "Episodio 26",
+            "date": 1570750310396,
+            "eid": "52913",
+            "key": 3118,
+            "name": "Kimetsu no Yaiba"
+        },
+        {
+            "aid": "3166",
+            "chapter": "Episodio 13",
+            "date": 1570478441653,
+            "eid": "52971",
+            "key": 3166,
+            "name": "Arifureta Shokugyou de Sekai Saikyou"
+        },
+        {
+            "aid": "3034",
+            "chapter": "Episodio 12",
+            "date": 1570366614578,
+            "eid": "50945",
+            "key": 3034,
+            "name": "Kishuku Gakkou no Juliet"
+        },
+        {
+            "aid": "3109",
+            "chapter": "Episodio 26",
+            "date": 1569992928955,
+            "eid": "52933",
+            "key": 3109,
+            "name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO"
+        },
+        {
+            "aid": "2706",
+            "chapter": "Episodio 11",
+            "date": 1569617359665,
+            "eid": "46326",
+            "key": 2706,
+            "name": "Saenai Heroine no Sodatekata 2"
+        },
+        {
+            "aid": "3177",
+            "chapter": "Episodio 12",
+            "date": 1569606592932,
+            "eid": "52909",
+            "key": 3177,
+            "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
+        },
+        {
+            "aid": "3170",
+            "chapter": "Episodio 12",
+            "date": 1569207378480,
+            "eid": "52894",
+            "key": 3170,
+            "name": "Karakai Jouzu no Takagi-san 2"
+        },
+        {
+            "aid": "1786",
+            "chapter": "Episodio 0",
+            "date": 1569156480733,
+            "eid": "31588",
+            "key": 1786,
+            "name": "Saenai Heroine no Sodatekata"
+        },
+        {
+            "aid": "3152",
+            "chapter": "Episodio 12",
+            "date": 1569029977249,
+            "eid": "52878",
+            "key": 3152,
+            "name": "Araburu Kisetsu no Otome-domo yo."
+        },
+        {
+            "aid": "2362",
+            "chapter": "Episodio 12",
+            "date": 1568812936132,
+            "eid": "41010",
+            "key": 2362,
+            "name": "Boku dake ga Inai Machi"
+        },
+        {
+            "aid": "2930",
+            "chapter": "Episodio 12",
+            "date": 1568076471360,
+            "eid": "49425",
+            "key": 2930,
+            "name": "Mahou Shoujo Site"
+        },
+        {
+            "aid": "2376",
+            "chapter": "Episodio 12",
+            "date": 1567257314355,
+            "eid": "41049",
+            "key": 2376,
+            "name": "Hai to Gensou no Grimgar"
+        },
+        {
+            "aid": "3096",
+            "chapter": "Episodio 12",
+            "date": 1566875751102,
+            "eid": "51693",
+            "key": 3096,
+            "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+        },
+        {
+            "aid": "2876",
+            "chapter": "Episodio 13",
+            "date": 1566620925752,
+            "eid": "49601",
+            "key": 2876,
+            "name": "Karakai Jouzu no Takagi-san"
+        },
+        {
+            "aid": "3084",
+            "chapter": "Episodio 12",
+            "date": 1566135370919,
+            "eid": "51675",
+            "key": 3084,
+            "name": "Yakusoku no Neverland"
+        },
+        {
+            "aid": "3093",
+            "chapter": "Episodio 2",
+            "date": 1565870964560,
+            "eid": "51125",
+            "key": 3093,
+            "name": "Grimms Notes The Animation"
+        },
+        {
+            "aid": "3074",
+            "chapter": "Episodio 25",
+            "date": 1565702455181,
+            "eid": "52289",
+            "key": 3074,
+            "name": "Tate no Yuusha no Nariagari"
+        },
+        {
+            "aid": "3164",
+            "chapter": "Episodio 6",
+            "date": 1565610084374,
+            "eid": "52578",
+            "key": 3164,
+            "name": "Ensemble Stars!"
+        },
+        {
+            "aid": "2550",
+            "chapter": "Episodio 12",
+            "date": 1565470919671,
+            "eid": "43398",
+            "key": 2550,
+            "name": "Mahou Shoujo Ikusei Keikaku"
+        },
+        {
+            "aid": "3134",
+            "chapter": "Episodio 12",
+            "date": 1565148833322,
+            "eid": "52290",
+            "key": 3134,
+            "name": "Kenja no Mago"
+        },
+        {
+            "aid": "3119",
+            "chapter": "Episodio 13",
+            "date": 1564927644608,
+            "eid": "52299",
+            "key": 3119,
+            "name": "Bokutachi wa Benkyou ga Dekinai"
+        },
+        {
+            "aid": "2881",
+            "chapter": "Episodio 3",
+            "date": 1564787468706,
+            "eid": "49855",
+            "key": 2881,
+            "name": "Shingeki no Kyojin: Lost Girls"
+        },
+        {
+            "aid": "3137",
+            "chapter": "Episodio 12",
+            "date": 1564429129326,
+            "eid": "52294",
+            "key": 3137,
+            "name": "Bungou Stray Dogs 3rd Season"
+        },
+        {
+            "aid": "3142",
+            "chapter": "Episodio 2",
+            "date": 1564144759283,
+            "eid": "52216",
+            "key": 3142,
+            "name": "Grisaia: Phantom Trigger The Animation"
+        },
+        {
+            "aid": "3051",
+            "chapter": "Episodio 12",
+            "date": 1562985725888,
+            "eid": "51689",
+            "key": 3051,
+            "name": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai"
+        }
+    ]
+}
